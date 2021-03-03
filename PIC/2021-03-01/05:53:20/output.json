@@ -1,0 +1,97 @@
+{
+  "/cvmfs/ligo.osgstorage.org/frames/O3/V1Online/V-V1Online-12672/V-V1Online-1267288000-2000.gwf": {
+    "size": 91952995,
+    "results": [
+      {
+        "checksum_status": true,
+        "timer": {
+          "real": "0:00.98",
+          "user": 0.84,
+          "sys": 0.09
+        },
+        "status": true
+      },
+      {
+        "checksum_status": true,
+        "timer": {
+          "real": "0:01.00",
+          "user": 0.84,
+          "sys": 0.11
+        },
+        "status": true
+      },
+      {
+        "checksum_status": true,
+        "timer": {
+          "real": "0:01.01",
+          "user": 0.85,
+          "sys": 0.1
+        },
+        "status": true
+      },
+      {
+        "checksum_status": true,
+        "timer": {
+          "real": "0:01.01",
+          "user": 0.84,
+          "sys": 0.1
+        },
+        "status": true
+      },
+      {
+        "checksum_status": true,
+        "timer": {
+          "real": "0:00.99",
+          "user": 0.83,
+          "sys": 0.09
+        },
+        "status": true
+      },
+      {
+        "checksum_status": true,
+        "timer": {
+          "real": "0:00.97",
+          "user": 0.81,
+          "sys": 0.1
+        },
+        "status": true
+      },
+      {
+        "checksum_status": true,
+        "timer": {
+          "real": "0:00.93",
+          "user": 0.81,
+          "sys": 0.1
+        },
+        "status": true
+      },
+      {
+        "checksum_status": true,
+        "timer": {
+          "real": "0:01.02",
+          "user": 0.86,
+          "sys": 0.1
+        },
+        "status": true
+      },
+      {
+        "checksum_status": true,
+        "timer": {
+          "real": "0:01.01",
+          "user": 0.85,
+          "sys": 0.12
+        },
+        "status": true
+      },
+      {
+        "checksum_status": true,
+        "timer": {
+          "real": "0:01.00",
+          "user": 0.84,
+          "sys": 0.1
+        },
+        "status": true
+      }
+    ]
+  }
+}

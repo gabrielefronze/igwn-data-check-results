@@ -1,0 +1,1054 @@
+000 (33488735.000.000) 2021-03-01 06:14:20 Job submitted from host: <131.215.113.204:9618?addrs=131.215.113.204-9618&alias=ldas-osg.ligo.caltech.edu&noUDP&sock=schedd_3836865_d4ec>
+...
+028 (33488735.000.000) 2021-03-01 06:14:20 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T06:14:20.455"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "$$(GLIDEIN_ClusterId:Unknown)"
+JOB_GLIDEIN_Entry_Name = "$$(GLIDEIN_Entry_Name:Unknown)"
+JOB_GLIDEIN_Factory = "$$(GLIDEIN_Factory:Unknown)"
+JOB_GLIDEIN_Name = "$$(GLIDEIN_Name:Unknown)"
+JOB_GLIDEIN_ProcId = "$$(GLIDEIN_ProcId:Unknown)"
+JOB_GLIDEIN_Schedd = "$$(GLIDEIN_Schedd:Unknown)"
+JOB_GLIDEIN_Site = "$$(GLIDEIN_Site:Unknown)"
+JOB_GLIDEIN_SiteWMS = "$$(GLIDEIN_SiteWMS:Unknown)"
+JOB_GLIDEIN_SiteWMS_JobId = "$$(GLIDEIN_SiteWMS_JobId:Unknown)"
+JOB_GLIDEIN_SiteWMS_Queue = "$$(GLIDEIN_SiteWMS_Queue:Unknown)"
+JOB_GLIDEIN_SiteWMS_Slot = "$$(GLIDEIN_SiteWMS_Slot:Unknown)"
+JOB_Site = "$$(GLIDEIN_Site:Unknown)"
+MyType = "SubmitEvent"
+Proc = 0
+SubmitHost = "<131.215.113.204:9618?addrs=131.215.113.204-9618&alias=ldas-osg.ligo.caltech.edu&noUDP&sock=schedd_3836865_d4ec>"
+Subproc = 0
+TriggerEventTypeName = "ULOG_SUBMIT"
+TriggerEventTypeNumber = 0
+...
+040 (33488735.000.000) 2021-03-01 06:15:50 Started transferring input files
+	Transferring to host: <10.14.4.74:9618?addrs=10.14.4.74-9618&alias=node824.cluster.ldas.cit&noUDP&sock=slot1_12_15120_2860_4193>
+...
+028 (33488735.000.000) 2021-03-01 06:15:50 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T06:15:50.946"
+EventTypeNumber = 28
+Host = "<10.14.4.74:9618?addrs=10.14.4.74-9618&alias=node824.cluster.ldas.cit&noUDP&sock=slot1_12_15120_2860_4193>"
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MyType = "FileTransferEvent"
+Proc = 0
+Subproc = 0
+TriggerEventTypeName = "ULOG_FILE_TRANSFER"
+TriggerEventTypeNumber = 40
+Type = 2
+...
+040 (33488735.000.000) 2021-03-01 06:15:51 Finished transferring input files
+...
+028 (33488735.000.000) 2021-03-01 06:15:51 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T06:15:51.353"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MyType = "FileTransferEvent"
+Proc = 0
+Subproc = 0
+TriggerEventTypeName = "ULOG_FILE_TRANSFER"
+TriggerEventTypeNumber = 40
+Type = 3
+...
+001 (33488735.000.000) 2021-03-01 06:15:51 Job executing on host: <10.14.4.74:9618?addrs=10.14.4.74-9618&alias=node824.cluster.ldas.cit&noUDP&sock=startd_15082_9375>
+...
+028 (33488735.000.000) 2021-03-01 06:15:51 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T06:15:51.354"
+EventTypeNumber = 28
+ExecuteHost = "<10.14.4.74:9618?addrs=10.14.4.74-9618&alias=node824.cluster.ldas.cit&noUDP&sock=startd_15082_9375>"
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MyType = "ExecuteEvent"
+Proc = 0
+Subproc = 0
+TriggerEventTypeName = "ULOG_EXECUTE"
+TriggerEventTypeNumber = 1
+...
+006 (33488735.000.000) 2021-03-01 06:15:59 Image size of job updated: 165204
+	7  -  MemoryUsage of job (MB)
+	6168  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 06:15:59 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T06:15:59.403"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6168
+Size = 165204
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 06:20:59 Image size of job updated: 165560
+	7  -  MemoryUsage of job (MB)
+	6240  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 06:20:59 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T06:20:59.663"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6240
+Size = 165560
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 06:26:00 Image size of job updated: 165560
+	7  -  MemoryUsage of job (MB)
+	6268  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 06:26:00 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T06:26:00.928"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6268
+Size = 165560
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 06:31:01 Image size of job updated: 165816
+	7  -  MemoryUsage of job (MB)
+	6292  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 06:31:01 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T06:31:01.116"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6292
+Size = 165816
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 06:41:01 Image size of job updated: 165872
+	7  -  MemoryUsage of job (MB)
+	6292  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 06:41:01 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T06:41:01.626"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6292
+Size = 165872
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 06:46:02 Image size of job updated: 165872
+	7  -  MemoryUsage of job (MB)
+	6688  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 06:46:02 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T06:46:02.863"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6688
+Size = 165872
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 09:06:16 Image size of job updated: 165872
+	7  -  MemoryUsage of job (MB)
+	6872  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 09:06:16 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T09:06:16.820"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6872
+Size = 165872
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 09:36:19 Image size of job updated: 166004
+	7  -  MemoryUsage of job (MB)
+	6872  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 09:36:19 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T09:36:19.504"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6872
+Size = 166004
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 10:11:24 Image size of job updated: 166072
+	7  -  MemoryUsage of job (MB)
+	6872  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 10:11:24 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T10:11:24.365"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6872
+Size = 166072
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 11:11:29 Image size of job updated: 166072
+	7  -  MemoryUsage of job (MB)
+	6936  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 11:11:29 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T11:11:29.608"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6936
+Size = 166072
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 11:21:31 Image size of job updated: 166128
+	7  -  MemoryUsage of job (MB)
+	6936  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 11:21:31 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T11:21:31.150"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 7
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 6936
+Size = 166128
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 13:11:41 Image size of job updated: 166328
+	8  -  MemoryUsage of job (MB)
+	7192  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 13:11:41 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T13:11:41.959"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7192
+Size = 166328
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 13:26:43 Image size of job updated: 166376
+	8  -  MemoryUsage of job (MB)
+	7192  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 13:26:43 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T13:26:43.771"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7192
+Size = 166376
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 13:31:45 Image size of job updated: 166376
+	8  -  MemoryUsage of job (MB)
+	7240  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 13:31:45 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T13:31:45.041"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7240
+Size = 166376
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 15:11:56 Image size of job updated: 166388
+	8  -  MemoryUsage of job (MB)
+	7240  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 15:11:56 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T15:11:56.728"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7240
+Size = 166388
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 15:36:59 Image size of job updated: 166436
+	8  -  MemoryUsage of job (MB)
+	7240  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 15:36:59 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T15:36:59.882"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7240
+Size = 166436
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 17:32:10 Image size of job updated: 166584
+	8  -  MemoryUsage of job (MB)
+	7240  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 17:32:10 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T17:32:10.237"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7240
+Size = 166584
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 19:12:19 Image size of job updated: 166584
+	8  -  MemoryUsage of job (MB)
+	7556  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 19:12:19 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T19:12:19.387"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7556
+Size = 166584
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 21:02:30 Image size of job updated: 166840
+	8  -  MemoryUsage of job (MB)
+	7556  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 21:02:30 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T21:02:30.622"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7556
+Size = 166840
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-01 23:37:48 Image size of job updated: 167096
+	8  -  MemoryUsage of job (MB)
+	7556  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-01 23:37:48 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-01T23:37:48.238"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7556
+Size = 167096
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-02 00:07:52 Image size of job updated: 167152
+	8  -  MemoryUsage of job (MB)
+	7644  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-02 00:07:52 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T00:07:52.867"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7644
+Size = 167152
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-02 00:12:53 Image size of job updated: 167152
+	8  -  MemoryUsage of job (MB)
+	7656  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-02 00:12:53 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T00:12:53.100"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7656
+Size = 167152
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-02 00:17:53 Image size of job updated: 167152
+	8  -  MemoryUsage of job (MB)
+	7668  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-02 00:17:53 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T00:17:53.440"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7668
+Size = 167152
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-02 00:27:55 Image size of job updated: 167152
+	8  -  MemoryUsage of job (MB)
+	7704  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-02 00:27:55 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T00:27:55.000"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7704
+Size = 167152
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-02 00:32:55 Image size of job updated: 167152
+	8  -  MemoryUsage of job (MB)
+	7920  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-02 00:32:55 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T00:32:55.294"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7920
+Size = 167152
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-02 00:57:57 Image size of job updated: 167352
+	8  -  MemoryUsage of job (MB)
+	7920  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-02 00:57:57 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T00:57:57.645"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7920
+Size = 167352
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-02 01:28:01 Image size of job updated: 167472
+	8  -  MemoryUsage of job (MB)
+	7920  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-02 01:28:01 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T01:28:01.266"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7920
+Size = 167472
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-02 01:43:03 Image size of job updated: 167472
+	8  -  MemoryUsage of job (MB)
+	7948  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-02 01:43:03 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T01:43:03.044"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7948
+Size = 167472
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+006 (33488735.000.000) 2021-03-02 01:48:03 Image size of job updated: 167472
+	8  -  MemoryUsage of job (MB)
+	7976  -  ResidentSetSize of job (KB)
+...
+028 (33488735.000.000) 2021-03-02 01:48:03 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T01:48:03.338"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MemoryUsage = 8
+MyType = "JobImageSizeEvent"
+Proc = 0
+ResidentSetSize = 7976
+Size = 167472
+Subproc = 0
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+TriggerEventTypeNumber = 6
+...
+040 (33488735.000.000) 2021-03-02 01:48:24 Started transferring output files
+...
+028 (33488735.000.000) 2021-03-02 01:48:24 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T01:48:24.149"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MyType = "FileTransferEvent"
+Proc = 0
+Subproc = 0
+TriggerEventTypeName = "ULOG_FILE_TRANSFER"
+TriggerEventTypeNumber = 40
+Type = 5
+...
+040 (33488735.000.000) 2021-03-02 01:48:24 Finished transferring output files
+...
+028 (33488735.000.000) 2021-03-02 01:48:24 Job ad information event triggered.
+Cluster = 33488735
+EventTime = "2021-03-02T01:48:24.168"
+EventTypeNumber = 28
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+MyType = "FileTransferEvent"
+Proc = 0
+Subproc = 0
+TriggerEventTypeName = "ULOG_FILE_TRANSFER"
+TriggerEventTypeNumber = 40
+Type = 6
+...
+005 (33488735.000.000) 2021-03-02 01:48:25 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:12:42, Sys 0 00:08:24  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:12:42, Sys 0 00:08:24  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	967416  -  Run Bytes Sent By Job
+	5437  -  Run Bytes Received By Job
+	967416  -  Total Bytes Sent By Job
+	5437  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.09        1         1 
+	   Disk (KB)            :   980           1    102288 
+	   GPUs                 :                           0 
+	   Memory (MB)          :     8        1024      1024 
+
+	Job terminated of its own accord at 2021-03-02T09:48:24Z.
+...
+028 (33488735.000.000) 2021-03-02 01:48:25 Job ad information event triggered.
+Cluster = 33488735
+Cpus = 1
+CpusUsage = 0.08500000000000001
+Disk = 102288
+DiskUsage = 980
+EventTime = "2021-03-02T01:48:25.175"
+EventTypeNumber = 28
+GPUs = 0
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_Site = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+JOB_Site = "Unknown"
+Memory = 1024
+MemoryUsage = 8
+MyType = "JobTerminatedEvent"
+Proc = 0
+ReceivedBytes = 5437.0
+RequestCpus = 1
+RequestDisk = 1
+RequestMemory = 1024
+ReturnValue = 0
+RunLocalUsage = "Usr 0 00:00:00, Sys 0 00:00:00"
+RunRemoteUsage = "Usr 0 01:12:42, Sys 0 00:08:24"
+SentBytes = 967416.0
+Subproc = 0
+TerminatedNormally = true
+ToE = [ When = 1614678504; HowCode = 0; How = "OF_ITS_OWN_ACCORD"; Who = "itself" ]
+TotalLocalUsage = "Usr 0 00:00:00, Sys 0 00:00:00"
+TotalReceivedBytes = 5437.0
+TotalRemoteUsage = "Usr 0 01:12:42, Sys 0 00:08:24"
+TotalSentBytes = 967416.0
+TriggerEventTypeName = "ULOG_JOB_TERMINATED"
+TriggerEventTypeNumber = 5
+...

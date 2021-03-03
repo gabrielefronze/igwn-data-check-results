@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "runs_per_file": 10,
+        "verbose": false
+    },
+    "paths_to_test" : [
+        "/cvmfs/ligo.osgstorage.org/frames/O3/V1Online/V-V1Online-12671/",
+	"/cvmfs/ligo.osgstorage.org/frames/O3/V1Online/V-V1Online-12672/",
+	"/cvmfs/ligo.osgstorage.org/frames/O3/V1Online/V-V1Online-12673/",
+	"/cvmfs/ligo.osgstorage.org/frames/O3/V1Online/V-V1Online-12674/",
+	"/cvmfs/ligo.osgstorage.org/frames/O3/V1Online/V-V1Online-12672/"
+    ]
+}

@@ -1,0 +1,22 @@
+universe = vanilla
+
+transfer_input_files = ./settings.json
+executable = /home/gabriele.fronze/igwn-data-checker/igwn-data-checker.py
+arguments = /cvmfs/oasis.opensciencegrid.org/ligo/deploy/sw/conda/envs/igwn-py38-20210107/bin/FrCheck
+transfer_output_files = output.json
+
+log = std.log
+output = std.out
+error = std.err
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+
+use_x509userproxy = true
+requirements = (HAS_LIGO_FRAMES=?=True)
++DESIRED_Sites = "CCIN2P3"
+
+accounting_group = ligo.prod.o3.burst.snews.raven
+accounting_group_user = gabriele.fronze
+
+queue 1

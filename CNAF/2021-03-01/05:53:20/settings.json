@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "runs_per_file": 10,
+        "verbose": false
+    },
+    "paths_to_test" : [
+        "/cvmfs/ligo.osgstorage.org/frames/O3/V1Online/V-V1Online-12672/V-V1Online-1267288000-2000.gwf"
+    ]
+}
